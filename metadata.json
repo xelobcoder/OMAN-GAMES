@@ -1,0 +1,6 @@
+{
+  "name": "ABC Safari Adventure - Early Childhood Alphabet Game",
+  "description": "An interactive, joyful alphabet learning game for kindergarten and nursery children featuring balloon popping, letter tracing, phonics train, and audio soundboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
